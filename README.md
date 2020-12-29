@@ -5,4 +5,4 @@ This project requires four of us to crawl grocery store price data from 5 sectio
 
 If you want to read deliverables, please go to Final Report.pdf and presentation slides.pdf. You can even see our presentation by opening up the Presentation Video.mp4 file! Hope you enjoy it!
 
-Special thanks to prof Yilu Zhou, Tyler (Ty) DiNapoli-Chiappelli, Timothy (Tim) Welles, Nicholas (Nick) Mercogliano. We are from Fordham University 2021', MS in Business Analytics program.
+Special thanks to prof Yilu Zhou, Tyler (Ty) DiNapoli-Chiappelli, Timothy (Tim) Welles, Nicholas (Nick) Mercogliano. We are from Fordham University 2021', MS in Business Analytics program. If you have any question or suggestion, please email ylu204@fordham.edu
